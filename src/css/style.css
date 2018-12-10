@@ -1,0 +1,36 @@
+.mt-cust {
+    margin-top: 9rem;
+}
+
+.border-solid {
+    border: 2px solid #dee2e6;
+}
+
+.line-height-2 {
+    line-height: 2
+}
+
+.d-img-small {
+    height: 300px;
+    width: 207.6px;
+}
+
+.d-input-custom {
+    width: 35px !important;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.lower-top {
+    top: 55px;
+}
+
+.no-decor:hover {
+    text-decoration: none;
+}
+
+.rem-18 {
+    width: 18rem;
+}
